@@ -1,4 +1,6 @@
 mousejigglerenv/
 mouse_jiggler.egg-info/
+mouse_jiggler_advanced.egg-info/
 build/
+dist/
 __pycache__/

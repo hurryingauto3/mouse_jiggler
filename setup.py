@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="mouse_jiggler",
-    version="1.0.0",
+    name="mouse_jiggler_advanced",
+    version="1.0.2",
     packages=find_packages(),
     entry_points={
         "console_scripts": [
